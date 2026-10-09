@@ -1,3 +1,3 @@
-# Wow, that's a project
+# Wow, my project is awesome
 
-Hello!
+Hello, hello!
